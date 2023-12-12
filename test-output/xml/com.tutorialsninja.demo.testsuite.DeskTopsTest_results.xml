@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TutorialNinja"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="17.968">
+  <properties />
+  
+  
+            <testcase name="verifyProduct1AddedToShoppingCartSuccessFully" time="4.652" classname="com.tutorialsninja.demo.testsuite.DeskTopsTest" />
+                <testcase name="verifyProductArrangeInAlphabeticalOrder" time="3.087" classname="com.tutorialsninja.demo.testsuite.DeskTopsTest" />
+                <testcase name="verifyProduct3AddedToShoppingCartSuccessFully" time="4.965" classname="com.tutorialsninja.demo.testsuite.DeskTopsTest" />
+                <testcase name="verifyProduct2AddedToShoppingCartSuccessFully" time="5.264" classname="com.tutorialsninja.demo.testsuite.DeskTopsTest" />
+      
+</testsuite>
